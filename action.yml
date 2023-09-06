@@ -9,5 +9,5 @@ outputs:
   time:
     descripton: 'the time we greted you'
 runs:
-  using: 'nodejs'
+  using: 'node16'
   main: ' dist/index.js'
