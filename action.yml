@@ -1,5 +1,5 @@
 name: 'hello-world'
-description: greet someone and record the time
+description: 'greet someone and record the time'
 inputs:
   who-to-greet:
     descrption: 'who to greet'
